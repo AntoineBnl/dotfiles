@@ -1,0 +1,11 @@
+
+* [material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [csharp](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+* [python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+* [vscode-pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+* [remote-wsl](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+* [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+* [gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)

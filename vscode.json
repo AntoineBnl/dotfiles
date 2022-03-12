@@ -1,0 +1,23 @@
+{
+    "telemetry.telemetryLevel": "off",
+    "csharp.referencesCodeLens.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.linkedEditing": true,
+    "[javascript][html][css]": {
+        "editor.tabSize": 2
+    },
+    
+    "workbench.iconTheme": "material-icon-theme",
+    "scm.diffDecorationsGutterVisibility": "hover",
+    
+//  "editor.fontFamily": "'IA Writer Mono S', Consolas, 'Courier New', monospace",
+    
+/*  "editor.bracketPairColorization.enabled": true,
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#D4D4D4",
+    } */
+    
+}
