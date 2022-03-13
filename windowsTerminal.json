@@ -76,7 +76,7 @@
             {
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
                 "hidden": false,
-                "icon": "C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.UbuntuonWindows_2004.2021.825.0_x64__79rhkp1fndgsc\\Assets\\Square44x44Logo.altform-unplated_targetsize-256.png",
+                "icon": "D:\\Pictures\\Divers\\Program Icons\\Ubuntu_favicon.png",
                 "name": "Ubuntu",
                 "source": "Windows.Terminal.Wsl",
                 "startingDirectory": "\\\\wsl$\\Ubuntu\\home\\antoine-wsl"
